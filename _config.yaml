@@ -1,7 +1,6 @@
 title: ITMO Docs (multiple disciplines)
 description: Конспекты, etc.
-theme: null
-remote_theme: jekyll/minima@v2.5.1
+theme: minima
 markdown: kramdown
 kramdown:
   math_engine: mathjax
